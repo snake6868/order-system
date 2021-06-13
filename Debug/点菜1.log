@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (点菜1.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+D:\c++ 界面\点菜1\main.cpp(278,2): warning C4551: 缺少参数列表的函数调用
+D:\c++ 界面\点菜1\main.cpp(417,2): warning C4551: 缺少参数列表的函数调用
+D:\c++ 界面\点菜1\main.cpp(514,2): warning C4551: 缺少参数列表的函数调用
+D:\c++ 界面\点菜1\main.cpp(665,25): warning C4002: 类函数宏的调用“max”参数过多
+D:\c++ 界面\点菜1\main.cpp(830,2): warning C4551: 缺少参数列表的函数调用
+D:\c++ 界面\点菜1\main.cpp(1414,2): warning C4551: 缺少参数列表的函数调用
+D:\c++ 界面\点菜1\main.cpp(1429,2): warning C4551: 缺少参数列表的函数调用
+  点菜1.vcxproj -> D:\c++ 界面\点菜1\Debug\takeorder system.exe
